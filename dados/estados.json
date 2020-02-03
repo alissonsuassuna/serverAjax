@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nome": "Acre",
+        "sigla": "AC"
+    },
+    {
+        "id": 2,
+        "nome": "Rio Grande do Norte",
+        "sigla": "RN"
+    },
+    {
+        "id": 3,
+        "nome": "Ceará",
+        "sigla": "CE"
+    }
+]
